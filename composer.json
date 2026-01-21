@@ -1,5 +1,5 @@
 {
-    "name": "amidesfahani/filament-tinyeditor",
+    "name": "pieterxjan/filament-tinyeditor",
     "description": "Filament TinyMce Editor",
     "license": "MIT",
     "keywords": ["laravel", "filament", "tinyeditor", "tinymce"],
